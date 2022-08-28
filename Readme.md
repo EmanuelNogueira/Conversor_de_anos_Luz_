@@ -1,0 +1,3 @@
+PROJETO PARA CONVERTER ANOS LUZ EM PARSEC(PC), UNIDADE ASTRONÔMICA(AU) E QUILÔMETROS(KM). 
+
+Usaremos a prática com switch para fixação.
